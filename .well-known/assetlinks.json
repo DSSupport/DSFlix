@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.ds.playweb",
+               "sha256_cert_fingerprints": ["73:33:40:AE:6A:DC:DF:17:DD:B2:60:BF:6B:05:9F:19:D3:79:8E:70:8A:BA:FD:32:F6:9C:59:06:CE:16:0F:88"] }
+}]
